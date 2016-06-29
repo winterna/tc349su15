@@ -1,0 +1,127 @@
+@charset "UTF-8";
+/* Natalie Winter's CSS Document. 
+NOTE: 
+Colors...
+Red-E8644E
+Teal-29AFBF
+Blue- B9F4FB
+
+*/
+
+
+
+/* the html element below is the "background" of your page */
+html {
+background-image:url(wov.png)
+
+}
+body {
+	width: 750px;
+	margin: 1.5em auto; 
+	padding: 5px;
+	padding-bottom: 0px;
+	background-color:#FFFEF9;
+	font-family:Century gothic, serif;
+    border-radius: 10px;
+}
+#welcome{
+    text-align: left;
+    width: 300px;
+    line-height: 30px;
+    font-size: 14px;
+    padding-left: 20px;
+    float: left
+}
+#PA{
+    width: 400px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+}
+#nav{
+	list-style-type:none;
+	background-color:#A7C7B4;
+	width:110px;
+	padding:1px;
+	border-style:dotted;
+	border-color:#A7C7B4;
+	border-width:1px;
+	display:inline;
+	margin:10px;
+	border-radius:10px;
+	text-align:center;
+}
+#nav li{
+	display:inline;
+	letter-spacing:4px;
+	}
+	
+#nav a{
+	color:white;
+	text-decoration: none;
+	font-weight:lighter;
+	padding:47px;
+}
+
+h1 {
+	text-align: left;
+    font-size: 30px;
+    text-align: center;
+	color: #29AFBF;
+	letter-spacing:15px;
+	padding-bottom: 5px;
+    padding: 1px;
+	margin:2px;
+    font-family: 'capriola', century gothic;
+}
+
+#port{
+    letter-spacing: 20px;
+    text-align: center;
+}
+
+#hub{
+    font-size: 80px
+}
+
+h2 {
+	padding: px;
+	color: #5E5341;
+	font-weight:lighter;
+	letter-spacing:4px;
+	margin: 20px;
+}
+
+#PA{
+    height: 400px;
+}
+
+a {
+  font-weight:lighter;
+  text-decoration: none;
+}
+#footer {
+	text-align: center ;
+	font-size: 11px ;
+	width: 710px ;
+	height: 10px ;
+	background-color:#FBFFE9;
+	bottom:0px;
+	padding:20px;
+}
+#XHTML{
+	float:right;
+}
+.outlinelink { padding-bottom:80px;
+}
+#event{
+    font-size: 20px;
+    padding: 10px;
+    align-content: center;
+}
+#des{
+}
+
+#E{
+    font-size: 40px;
+    font-family: 'Capriola', century gothic;
+}
